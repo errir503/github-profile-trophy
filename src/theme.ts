@@ -1,5 +1,3 @@
-title_color=402c25&icon_color=ed7785&text_color=402c25&bg_color=fcd3d3&border_color=402c25" />
-    
 export const COLORS: {[name: string]: Theme} = {
   default: {
     BACKGROUND: "#FCD3D3",
