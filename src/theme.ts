@@ -1,7 +1,7 @@
 export const COLORS: {[name: string]: Theme} = {
   default: {
     BACKGROUND: "#FFF",
-    TITLE: "#000",
+    TITLE: "#FF79C6",
     ICON_CIRCLE: "#FFF",
     TEXT: "#666",
     LAUREL: "#009366",
@@ -9,7 +9,7 @@ export const COLORS: {[name: string]: Theme} = {
     SECRET_RANK_2: "fuchsia",
     SECRET_RANK_3: "blue",
     SECRET_RANK_TEXT: "fuchsia",
-    NEXT_RANK_BAR: "#0366d6",
+    NEXT_RANK_BAR: "#FF79C6",
     S_RANK_BASE: "#FAD200",
     S_RANK_SHADOW: "#C8A090",
     S_RANK_TEXT: "#886000",
